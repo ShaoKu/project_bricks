@@ -1,0 +1,25 @@
+{
+  "name": "project_bricks",
+  "version": "1.0.0",
+  "description": "a demo project for npm testing",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ShaoKu/project_bricks.git"
+  },
+  "keywords": [
+    "bricks"
+  ],
+  "author": "Ku.wang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ShaoKu/project_bricks/issues"
+  },
+  "homepage": "https://github.com/ShaoKu/project_bricks#readme",
+  "dependencies": {
+    "jquery": "^3.4.1"
+  }
+}
