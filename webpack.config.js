@@ -3,7 +3,7 @@ module.exports = {
 	context: path.resolve(__dirname, 'src'),
     entry: './index.js',
     output: {
-        filename: 'index.bundle.js',
+        filename: 'project-bricks-bundle.js',
         path: path.resolve(__dirname, 'dist'),
     }
 };
