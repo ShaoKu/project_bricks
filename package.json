@@ -6,7 +6,8 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "build": "webpack --mode production",
-    "watch": "webpack --watch --mode development"
+    "watch": "webpack --watch --mode development",
+    "dev": "webpack-dev-server"
   },
   "repository": {
     "type": "git",
@@ -22,9 +23,11 @@
   },
   "homepage": "https://github.com/ShaoKu/project_bricks#readme",
   "dependencies": {
+    "express": "^4.17.1",
     "jquery": "^3.4.1",
     "three": "^0.114.0",
-    "vue": "^2.6.11"
+    "vue": "^2.6.11",
+    "webpack-dev-server": "^3.10.3"
   },
   "devDependencies": {
     "webpack": "^4.42.0",
