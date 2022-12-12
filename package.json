@@ -23,7 +23,7 @@
   },
   "homepage": "https://github.com/ShaoKu/project_bricks#readme",
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "jquery": "^3.4.1",
     "three": "^0.114.0",
     "vue": "^2.6.11",
